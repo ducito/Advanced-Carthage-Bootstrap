@@ -1,9 +1,15 @@
 #!/bin/sh
-echo "---------------------------"
-echo "Advanced Carthage bootstrap"
-echo "Created on Nov 18, 2018"
-echo "Copyright (c) Duc Nguyen"
-echo "---------------------------"
+# "-------------------------------------------------------"
+# " Advanced Carthage bootstrap 1.0.1                     "
+# " Created on Nov 19, 2018                               "
+# " Copyright (c) Duc Nguyen                              "
+# "-------------------------------------------------------"
+
+echo "-------------------------------------------------------"
+echo " Advanced Carthage bootstrap 1.0.1                     "
+echo " Created on Nov 19, 2018                               "
+echo " Copyright (c) Duc Nguyen                              "
+echo "-------------------------------------------------------"
 
 CARTFILE="Cartfile.resolved"
 CACHED_CARTFILE="Carthage/Cartfile.resolved"
